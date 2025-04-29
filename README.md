@@ -1,8 +1,18 @@
-# React + Vite
+# Aula 2 - Revisão de Bootstrap com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como exercício de revisão para consolidar o uso do **Bootstrap** integrado ao **React**. O foco foi a construção de componentes reutilizáveis e responsivos, usando a estrutura do Bootstrap para estilização rápida e eficiente.
 
-Currently, two official plugins are available:
+## 📚 Componentes Criados
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Menu.jsx** – Navegação principal com uso de classes do Bootstrap.
+- **Slides.jsx** – Carrossel de imagens (Bootstrap Carousel).
+- **Aviso.jsx** – Alerta customizado usando `alert`.
+- **Cartao.jsx** – Cartões de conteúdo com imagens, títulos e botões.
+- **Lista.jsx** – Lista com elementos estilizados.
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- Bootstrap 5
+- HTML5 + JSX
+- CSS (opcional para personalização adicional)
